@@ -1,29 +1,28 @@
 # Diamond Hands
 
-Diamond hands is a blockchain game, in which you lock your assets in smart contract for a selected period of time. When the period ends user can withdraw funds. This stops you from panic selling your assets in a crypto dump 😅. 
+This is a blockchain application, wherein, for a predetermined amount of time, you lock your assets in a smart contract. User can only withdraw assets at the end of the fixed term. This prevents you from frantically liquidating your investments in a crypto crash. 😅.
 
-Please leave a ⭐ if you like it.
+Please leave a ⭐ on the top right corner if you like it.
 
 ![Game Preview](./game-preview.png)
 
 ## Try It Out
-You can try it out yourself in [live demo](https://projects.tijan.dev/diamond-hands) on avalanche fuji testnet. You can get testnet AVAX to be able to test it [here](https://faucet.avax.network/).
 
-If you find any **errors** ⛔, please report them to [errors@tijan.dev](mailto:errors@tijan.dev) thanks 🙏.
+You can get testnet AVAX to be able to test it [here](https://faucet.avax.network/).
 
 ## Technologies
+
 Technologies used in this project:
+
 - [Hardhat](https://hardhat.org/) for smart contracts
 - [React](https://reactjs.org/)
 - [Moralis](https://moralis.io/) for authentication
 - [Web3UIKit](https://github.com/web3ui/web3uikit) for UI components
 
 ## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my [portfolio](https://tijan.dev).
 
-You can get in touch with me through my [website](https://tijan.dev) or contact me on [twitter](https://twitter.com/0xTijan).
+Hi! 👋 I'm Prabhas, passionate **blockchain developer** from India. Take a look at my [portfolio]().
 
-Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
+You can get in touch with me through my [website]() or contact me on [twitter](https://twitter.com/Prabhas66922636) and on [telegram](https://t.me/kprabhasreddy).
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+You can support me by donating to this address: 0x28987020fdA2F8802728D3b300882C7D574192C6
