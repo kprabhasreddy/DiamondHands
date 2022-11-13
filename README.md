@@ -21,8 +21,8 @@ Technologies used in this project:
 
 ## About Me
 
-Hi! 👋 I'm Prabhas, passionate **blockchain developer** from India. Take a look at my [portfolio]().
+Hi! 👋 I'm Prabhas, passionate **blockchain developer** from India. Take a look at my portfolio here on Github.
 
-You can get in touch with me through my [website]() or contact me on [twitter](https://twitter.com/Prabhas66922636) and on [telegram](https://t.me/kprabhasreddy).
+You can get in touch with me through my [email](mailto:kprabhasreddy@gmail.com)) or contact me on [twitter](https://twitter.com/Prabhas66922636) and on [telegram](https://t.me/kprabhasreddy).
 
 You can support me by donating to this address: 0x28987020fdA2F8802728D3b300882C7D574192C6
