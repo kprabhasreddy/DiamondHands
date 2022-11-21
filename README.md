@@ -1,6 +1,6 @@
 # Diamond Hands
 
-This is a blockchain application, wherein, for a predetermined amount of time, you lock your assets in a smart contract. User can only withdraw assets at the end of the fixed term. This prevents you from frantically liquidating your investments in a crypto crash. 😅.
+This is a blockchain application, wherein, for a predetermined amount of time, you lock your assets in a smart contract. User can only withdraw assets at the end of the fixed term. This prevents you from frantically liquidating your investments in a crypto crash. 
 
 Please leave a ⭐ on the top right corner if you like it.
 
